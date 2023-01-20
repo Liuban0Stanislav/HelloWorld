@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hello world");
         System.out.println("sferwfwsef");
-        System.out.println("rfer");
+        System.out.println("rfeаераерекарr");
     }
 }
